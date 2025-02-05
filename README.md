@@ -1,4 +1,4 @@
-# PoSH_Teams_Message_Theif
+# PoSH_Teams_Message_Thief
 Quick and dirty PoSH code to read teams messages
 
 
